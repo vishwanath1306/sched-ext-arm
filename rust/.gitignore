@@ -1,0 +1,7 @@
+/target/
+/intf.h
+/main.bpf.c
+/src/bpf.rs
+/smoke-test.log
+/build.log
+/__pycache__/
